@@ -49,7 +49,7 @@ The analysis answers key questions about spending, frequency, ride duration, and
 
 ## 📂 Files
 - `yango_data.csv` → Raw Yango data (rides, payments, details).  
-- `yango_commute_analysis_v2.ipynb` → Full exploratory notebook with analysis and plots.  
+- `ProjektRed.ipynb` → Full exploratory notebook with analysis and plots.  
 - `README.md` → Project overview (this file).  
 
 ---
